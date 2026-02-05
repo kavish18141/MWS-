@@ -50,7 +50,6 @@ Compares Static Routing behavior against Dynamic Routing during link failure con
 ├── Case study 1.pkt
 ├── Case study 2- DIrect.pkt
 ├── Case study 2 - Aggregated.pkt
-├── Case study 2 - Aggregated - Wireless.pkt
 ├── Case study 3.pkt
 ├── Case study 4 - Raw.pkt
 ├── Case study 4 - Aggregation.pkt
@@ -58,3 +57,4 @@ Compares Static Routing behavior against Dynamic Routing during link failure con
 └── README.md
 
 ```
+
